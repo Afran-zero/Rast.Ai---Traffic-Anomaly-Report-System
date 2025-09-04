@@ -30,8 +30,7 @@ export function Home() {
           <div className="text-center">
             <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
               Report Traffic Anomaly <br />
-              <span className="text-yellow-300">"Our Bangladesh, Our Roads, 
-                      Our Responsibility."</span>
+              <span className="text-yellow-300">"“Safer Roads. Smarter Responses.”</span>
             </h1>
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto leading-relaxed">
               Join millon of citizens making our roads safer through Ai & community-powered traffic monitoring 
