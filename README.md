@@ -1,4 +1,4 @@
-# RastAI - Intelligent Anomaly Reporting Platform 
+# RastAI - Citizen-Powered, AI-Driven Anomaly Report System in Bangladesh (DEMO)
 
 A comprehensive web-based platform that enables citizens to report anomalies with AI-powered verification, crowd-sourced validation, and real-time mapping for authorities to prioritize and respond to incidents effectively.
 
